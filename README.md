@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm Arkya Patwa</h1>
 <h3 align="center">A passionate Software developer from India</h3>
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arkyapatwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkyapatwa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arkya-patwa-77425219b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkyapatwa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/arkyapatwa1507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arkyapatwa1507" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arkyapatwa333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arkyapatwa333" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arkyapatwa333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arkyapatwa333" height="30" width="40" /></a>
