@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [MovieZone Application](https://github.com/Arkyapatwa/Moviezone_Server)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **SpringBoot, Angular, React, DSA**
 
