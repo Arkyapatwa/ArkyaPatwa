@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkyapatwa&label=Profile%20views&color=0e75b6&style=flat" alt="arkyapatwa" /> </p>
 
-- 🔭 I’m currently working on [DumpDrive](https://github.com/Arkyapatwa/dumpDrive), [MovieZone Application](https://github.com/Arkyapatwa/Moviezone_Server)
+- 🔭 I’m currently working on [BlogApp](https://github.com/Arkyapatwa/Blog-App)
 
-- 🌱 I’m currently learning **NextJs**, **NodeJs**
+- 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **SpringBoot, Angular, React, DSA**
+- 💬 Ask me about **Nodejs, Python, DSA, SpringBoot, Angular**
 
 - 📫 How to reach me **arkyapatwa333@gmail.com**
 
