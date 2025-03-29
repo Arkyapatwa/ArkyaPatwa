@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkyapatwa&label=Profile%20views&color=0e75b6&style=flat" alt="arkyapatwa" /> </p>
 
-- 🔭 I’m currently working on [BlogApp](https://github.com/Arkyapatwa/Blog-App)
+- 🔭 I’m currently working on [Calendar MCP Server](https://github.com/Arkyapatwa/Google-Calendar-MCP-Server)
 
 - 🌱 I’m currently learning **NodeJs**
 
