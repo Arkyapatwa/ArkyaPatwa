@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AI/Gen AI in Python**
 
-- 💬 Ask me about **Nodejs, Python, DSA, SpringBoot, Angular**
+- 💬 Ask me about **Python, DSA, AI, System Design, Angular**
 
 - 📫 How to reach me **arkyapatwa333@gmail.com**
 
