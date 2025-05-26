@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkyapatwa&label=Profile%20views&color=0e75b6&style=flat" alt="arkyapatwa" /> </p>
 
-- 🔭 I’m currently working on [Calendar MCP Server](https://github.com/Arkyapatwa/Google-Calendar-MCP-Server)
+- 🔭 I’m currently working on [LuminoAI(Gen AI All works)](https://github.com/Arkyapatwa/Lumino.ai-backend)
 
 - 🌱 I’m currently learning **NodeJs**
 
