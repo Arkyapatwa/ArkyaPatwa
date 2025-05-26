@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [LuminoAI(Gen AI All works)](https://github.com/Arkyapatwa/Lumino.ai-backend)
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **AI/Gen AI in Python**
 
 - 💬 Ask me about **Nodejs, Python, DSA, SpringBoot, Angular**
 
